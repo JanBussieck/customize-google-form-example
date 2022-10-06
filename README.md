@@ -1,0 +1,1 @@
+This repository serves as an example for the [FormFuze tutorial on how to customize Google Form design](https://formfuze.com/blog/customize-google-form-styles).
